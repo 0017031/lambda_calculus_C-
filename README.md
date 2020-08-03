@@ -1,3 +1,4 @@
+try lambda in C++, Scheme, Python, inspired by https://github.com/glebec/lambda-talk
 
 Identity, Kestrel, Kite, Mockingbird, Cardinal
 
